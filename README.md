@@ -96,6 +96,6 @@ This is exactly the `PRACTICE.md` assignment — you just come up with the niche
 
 ## Deploy on Render
 
-The repository includes `render.yaml`. Connect this repository to a Render Web Service and add the secret environment variable `GOOGLE_API_KEY`. Render will install dependencies with `pip install -r requirements.txt` and start the app with `python bot.py`.
+The repository includes `render.yaml`. Connect this repository to a Render Web Service and add the secret environment variable `GOOGLE_API_KEY`. Render will install dependencies with `pip install -r requirements.txt` and start the app with `python3 bot.py`.
 
 Do not commit `.env` or API keys to GitHub.
