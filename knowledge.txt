@@ -1,0 +1,44 @@
+БАРБЕРШОП «БРИТВА» — ФАКТЫ ДЛЯ АДМИНИСТРАТОРА
+
+Адрес: ул. Стрижки, 7.
+Часы работы: пн–сб 10:00–21:00, вс — выходной.
+
+Услуги и цены:
+- Мужская стрижка — 1200 ₽
+- Стрижка машинкой — 800 ₽
+- Моделирование бороды — 700 ₽
+- Стрижка + борода (комплекс) — 1700 ₽
+- Бритьё опасной бритвой — 900 ₽
+- Детская стрижка (до 10 лет) — 700 ₽
+
+Мастера: Артём, Денис, Игорь. Можно записаться к конкретному мастеру.
+Запись: по телефону или через администратора (этого бота).
+Оплата: наличные и карты.
+Парковка есть рядом, бесплатная.
+Отмена записи — не позднее чем за 2 часа.
+
+
+En
+BARBERSHOP “BRITVA” — FACTS FOR THE RECEPTIONIST
+
+Address: 7 Strizhki St.
+Business Hours: Monday–Saturday: 10:00 AM – 9:00 PM, Sunday: Closed.
+
+Services & Prices:
+
+* Men’s Haircut — ₽1,200
+* Clipper Haircut — ₽800
+* Beard Styling — ₽700
+* Haircut + Beard (Combo) — ₽1,700
+* Straight Razor Shave — ₽900
+* Kids’ Haircut (up to 10 years old) — ₽700
+
+Barbers: Artem, Denis, and Igor. Clients can book a specific barber.
+
+Appointments: By phone or through the receptionist (this bot).
+
+Payment: Cash and credit/debit cards accepted.
+
+Parking: Free parking is available nearby.
+
+Cancellation Policy: Appointments must be canceled at least 2 hours in advance.
